@@ -14,5 +14,5 @@ public class KetuaPanitia extends Panitia{
 
     void menyetujuiJadwal() {
         System.out.println("Ketua panitia " + namaAnggota +  " dengan " + "no anggota " + noAnggota + " Menyetujui Jadwal" +  " selama " + periode);
-    }
+        System.out.println("Test aja");    }
 }
