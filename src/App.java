@@ -21,6 +21,7 @@ public class App {
        
         KetuaPanitia.menyetujuiAnggaran();
         System.out.println("==========================================");
+        System.out.println("Sekian Terima kasih");
         
     }
 }
